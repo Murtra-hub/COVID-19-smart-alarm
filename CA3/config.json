@@ -1,0 +1,14 @@
+{
+    "weather":
+        {
+            "api_key": "<< INSERT YOUR API KEY HERE >>",
+            "base_url": "http://api.openweathermap.org/data/2.5/weather?",
+            "city_name": "<< INSERT CITY NAME HERE >>"
+        },
+    "news":
+        {
+            "api_key": "<< INSERT YOUR API KEY HERE >>",
+            "country": "<< INSERT COUNTRY HERE IN REDUCED FORMAT ex: 'gb' >>",
+            "language": "<< INSER INDIOM HERE IN REDUCED FORMAT ex: 'en' >>"
+        }
+}
